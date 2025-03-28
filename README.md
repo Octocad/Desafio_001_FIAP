@@ -28,10 +28,9 @@ Este é um projeto desenvolvido para a aula inaugural do curso de Full Stack Dev
 
 ## Como Usar
 
-1. Clone este repositório
-2. Abra o arquivo `index.html` em seu navegador
-3. Preencha os campos do formulário com as informações do grupo
-4. Clique em "Enviar" para submeter os dados
+1. Clique em: https://octocad.github.io/Desafio_001_FIAP/ 
+2. Preencha os campos do formulário com as informações do grupo
+3. Clique em "Enviar" para submeter os dados
 
 ## Requisitos
 
